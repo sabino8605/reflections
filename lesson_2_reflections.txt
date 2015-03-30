@@ -1,0 +1,5 @@
+What happens when you intialize a repository? Why do you need todo it?
+git creates a hidden folder. I need to do this so git knows what folders to manage.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a intermediary space where we can put the files that we wish to commit. It helps organize our work.
